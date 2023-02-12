@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Snoozer</string>
+    <string name="snoozer_desc">Hey there, Use me to snooze you at certain intervals.
+        Input the time in minutes then hit the `Schedule` button to start the service and `Stop` to stop the running service</string>
+    <string name="snoozer_service_status_running">Snoozer Running</string>
+    <string name="snoozer_service_active">Snoozer is Active</string>
+    <string name="snoozer_service_status_idle">Snoozer Idle</string>
+    <string name="stop_service">Stop</string>
+    <string name="invalid_time">Invalid time</string>
+    <string name="input_valid_time">Input a valid time</string>
+    <string name="alarm_scheduled">Alarm scheduled!</string>
+    <string name="alarm_cancelled">Alarm Cancelled!</string>
+    <string name="schedule">Schedule</string>
+    <string name="home_title">Snoozer</string>
+</resources>
